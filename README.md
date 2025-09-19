@@ -1,5 +1,4 @@
-# web-scraping-congress-cdmx2025
-# Proyecto Módilo I: Web Scraping**  
+# Proyecto Módilo I: Web Scraping 
 # Diplomado en Ciencia de Datos, UNAM 2025
 
 Autor: Mtro. José César Romero Galván 
